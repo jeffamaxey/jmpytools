@@ -1,0 +1,13 @@
+{
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Jeff Maxey",
+  "copyright_year": "2023",
+  "development_status": "Development Status :: 1 - Planning",
+  "email": "jeffmaxey@comcast.net",
+  "friendly_name": "jmpytools",
+  "github_user": "jeffamaxey",
+  "license": "MIT",
+  "package_name": "jmpytools",
+  "project_name": "jmpytools",
+  "version": "0.0.0"
+}
